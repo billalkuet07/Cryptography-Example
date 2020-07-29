@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1581747071 source:/home/arif/Desktop/cpp/cryptography/mul_x.cpp
+	<iostream>
+	"myHeader.h"
+
+1581893439 source:/home/arif/Desktop/cpp/cryptography/main.cpp
+	<iostream>
+	"myHeader.h"
+
+1581890712 /home/arif/Desktop/cpp/cryptography/myHeader.h
+
+1581734083 source:/home/arif/Desktop/cpp/cryptography/mul_y.cpp
+	<iostream>
+	"myHeader.h"
+
+1581669582 source:/home/arif/Desktop/cpp/cryptography/SR.cpp
+	<iostream>
+	"myHeader.h"
+
+1581671733 source:/home/arif/Desktop/cpp/cryptography/Sbox1.cpp
+	<iostream>
+	"myHeader.h"
+
+1581669616 source:/home/arif/Desktop/cpp/cryptography/SQ.cpp
+	<iostream>
+	"myHeader.h"
+
+1581671923 source:/home/arif/Desktop/cpp/cryptography/Sbox2.cpp
+	<iostream>
+	"myHeader.h"
+
+1581734798 source:/home/arif/Desktop/cpp/cryptography/MUL.cpp
+	<iostream>
+	"myHeader.h"
+
+1581747870 source:/home/arif/Desktop/cpp/cryptography/DIV.cpp
+	<iostream>
+	"myHeader.h"
+
+1581890518 source:/home/arif/Desktop/cpp/cryptography/FSM.cpp
+	<iostream>
+	"myHeader.h"
+	<math.h>
+
+1581890697 source:/home/arif/Desktop/cpp/cryptography/LFSR.cpp
+	<iostream>
+	"myHeader.h"
+
